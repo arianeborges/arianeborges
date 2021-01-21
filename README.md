@@ -2,7 +2,7 @@
 
 I'm a Front-End Engineer based in London since August, 2020. <br/> 
 I'm currently learning React JS, React Native and Node JS.
-<img align="right" width="400" height="400" src="https://github.com/arianeborges/arianeborges/blob/main/img/Capa.png">
+<!-- <img align="right" width="400" height="400" src="https://github.com/arianeborges/arianeborges/blob/main/img/Capa.png"> -->
 
 
 
