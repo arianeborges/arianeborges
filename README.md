@@ -1,4 +1,4 @@
-![Capa](https://github.com/arianeborges/arianeborges/blob/main/img/Capa%20para%20Github.png)
+![Capa](https://github.com/arianeborges/arianeborges/blob/main/img/Capa.png)
 
 ## Hello hello <img src="img/hi.gif" width="30px"></h2>
 
