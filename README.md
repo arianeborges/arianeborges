@@ -1,6 +1,6 @@
 ## Hello hello <img src="img/hi.gif" width="30px"></h2>
 
-I'm a Front-End Engineer based in London since August, 2020. <br/> 
+I'm a Software Engineer based in London since August, 2020. <br/> 
 I'm currently learning React JS and React Native.
 <!-- <img align="right" width="400" height="400" src="https://github.com/arianeborges/arianeborges/blob/main/img/Capa.png"> -->
 
