@@ -5,7 +5,7 @@
 
 > from Brazil but currently living in London-UK (moving to Seattle soon 🎉);
 > always with a book in hands;
-> talk a lot about technologies, books, series, movies and travel;
+> talk a lot about technologies, games, books, series, movies and travel;
 
 
 ! ‍mobile frontend developer actively using react native
