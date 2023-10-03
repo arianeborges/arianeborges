@@ -23,4 +23,4 @@
 - [Booklog - Book Tracker](https://arianeborges.github.io/projects/booklog/booklog.html)
 
 #### 📝 Active study
-- ([ReactJS](https://github.com/arianeborges/study-reactjs))
+- [ReactJS](https://github.com/arianeborges/study-reactjs)
