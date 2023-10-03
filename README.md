@@ -1,4 +1,4 @@
-## Hello hello <img src="img/hi.gif" width="30px"></h2>
+## Hello hello 👋
 
 ```diff
 < Ariane 'Ari' ⭐
@@ -10,7 +10,7 @@
 
 ! ‍mobile frontend developer actively using react native
 ! love frontend and tech;
-! currently learning and practicing a lot of redux and typescript;
+! currently learning and practising a lot of react, redux and typescript;
 ! currently working on my personal project: booklog - book tracker app
 ```
 
