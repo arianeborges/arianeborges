@@ -3,7 +3,7 @@
 ```diff
 < Ariane 'Ari' ⭐
 
-> from Brazil but currently living in London-UK (moving to Seattle soon 🎉);
+> from Brazil but currently living in Seattle;
 > always with a book in hands;
 > talk a lot about technologies, games, books, series, movies and travel;
 
