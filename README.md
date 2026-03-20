@@ -1,26 +1,54 @@
-## Hello hello 👋
+# Ariane "Ari" Santos Borges ✨
 
-```diff
-< Ariane 'Ari' ⭐
+UX/UI Designer with a background in software engineering and quality assurance, currently based in Seattle.
 
-> from Brazil but currently living in Seattle;
-> always with a book in hands;
-> talk a lot about technologies, games, books, series, movies and travel;
+I focus on creating intuitive, user-centered digital experiences, combining design thinking with a strong technical foundation.
 
+---
 
-! ‍mobile frontend developer actively using react native
-! love frontend and tech;
-! currently learning and practising a lot of react, redux and typescript;
-! currently working on my personal project: booklog - book tracker app
-```
+## 🧠 What I do
 
-#### 🔗 Find me
+- Design user experiences and interfaces for mobile and web
+- Improve usability, flows, and interaction patterns
+- Build and structure design systems in Figma
+- Collaborate closely with developers and product decisions
 
-<a href="https://www.linkedin.com/in/borgesariane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://calendly.com/d/4fd-8zk-hs9/interview-with-ariane/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+---
 
-#### 📕 Active project
-- [Booklog - Book Tracker](https://arianeborges.github.io/projects/booklog/booklog.html)
+## 🚀 Current work
 
-#### 📝 Active study
-- [ReactJS](https://github.com/arianeborges/study-reactjs)
+- 🎨 UX/UI Designer at **GoStyle** — AI-powered styling app  
+  → https://gostyle.ai/  
+- 📱 Background in React Native and frontend development  
+- 🔍 Strong focus on usability, clarity, and product quality  
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Design:** Figma, UX/UI principles, wireframing, prototyping  
+- **Tech:** React Native, React, JavaScript / TypeScript  
+- **QA:** Manual testing, usability testing, bug tracking (Jira)  
+
+---
+
+## 🌱 Currently
+
+- Completing the Google UX Design Certificate  
+- Building and refining portfolio projects  
+- Exploring product design  
+
+---
+
+## ☕ A bit more about me
+
+- From Brazil 🇧🇷 → based in Seattle 🇺🇸  
+- I’m always reading something 📚  
+- I love games, design, and building things that feel good to use  
+
+---
+
+## 🔗 Find me here
+
+- Portfolio: https://behance.net/arianesantosborges  
+- LinkedIn: https://linkedin.com/in/borgesariane  
