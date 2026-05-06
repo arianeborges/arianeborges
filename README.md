@@ -33,14 +33,6 @@ I focus on creating intuitive, user-centered digital experiences, combining desi
 
 ---
 
-## 🌱 Currently
-
-- Completing the Google UX Design Certificate  
-- Building and refining portfolio projects  
-- Exploring product design  
-
----
-
 ## ☕ A bit more about me
 
 - From Brazil 🇧🇷 → based in Seattle 🇺🇸  
