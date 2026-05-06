@@ -17,6 +17,7 @@ I focus on creating intuitive, user-centered digital experiences, combining desi
 
 ## 🚀 Current work
 
+- 💻 Designer Engineer building Hero Replayer → https://heroreplayer.com/
 - 🎨 UX/UI Designer at **GoStyle** — AI-powered styling app  
   → https://gostyle.ai/  
 - 📱 Background in React Native and frontend development  
